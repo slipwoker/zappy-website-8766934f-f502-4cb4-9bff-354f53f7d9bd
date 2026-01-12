@@ -1,0 +1,53 @@
+# OfirTech מחשבים וסלולר — Generative Engine Optimization Map
+
+> A טכנולוגיה ותיקונים business.
+
+---
+
+## Pages
+
+### מגנים
+https://ofirtech-8766934f.zappy5.app/מגנים
+מגנים לסמארטפונים - מגוון רחב של מגנים איכותיים לאייפון ולסמסונג. OfirTech מחשבים וסלולר מציעה הגנה מושלמת למכשיר שלך עם מגנים איכותיים ומטענים מהירים.
+
+### מגנים לאייפון
+https://ofirtech-8766934f.zappy5.app/shop/מגנים לאייפון
+מגנים לאייפון - OfirTech מחשבים וסלולר. מבחר מגנים איכותיים ואביזרים לאייפון במחירים מעולים. מטענים מהירים, כבלים מקוריים ועוד.
+
+### מגנים לסמסונג
+https://ofirtech-8766934f.zappy5.app/shop/מגנים לסמסונג
+מגנים לסמסונג - OfirTech מחשבים וסלולר. מבחר מגנים איכותיים ומטענים למכשירי סמסונג במחירים מעולים. מטענים מהירים, כבלים מקוריים ואביזרים איכותיים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ofirtech-8766934f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ofirtech-8766934f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ofirtech-8766934f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About OfirTech מחשבים וסלולר
+OfirTech מחשבים וסלולר is a business in the טכנולוגיה ותיקונים industry.
+
+## Target Audience
+לקוחות המעוניינים בתיקון סלולר ומחשבים ורכישת אביזרים
+
+## Industry
+טכנולוגיה ותיקונים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ofirtech-8766934f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ofirtech-8766934f.zappy5.app/robots.txt
